@@ -1,2 +1,2 @@
 # F1
-Two player f1 racing against obstacles created in pygame
+A two player F1 racing game against obstacles. Csreated in pygame
